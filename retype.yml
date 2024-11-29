@@ -1,0 +1,86 @@
+input: . # Directory where your Markdown files are located
+output: public # Directory where the built site will be generated
+
+branding:
+  logo: "static/degenparklogo.png" # Path to your project logo
+  favicon: "static/favicon.ico" # Ensure favicon is in the 'static' folder
+  title: "DegenPark Docs" # Title for your documentation site
+
+theme: auto # Use 'auto' to adapt to the user's system theme (light/dark)
+
+input: . # Directory where your Markdown files are located
+output: public # Directory where the built site will be generated
+
+branding:
+  logo: "static/degenparklogo.png" # Path to your project logo
+  favicon: "static/favicon.ico" # Ensure favicon is in the 'static' folder
+  title: "DegenPark Docs" # Title for your documentation site
+
+theme: auto # Use 'auto' to adapt to the user's system theme (light/dark)
+footer:
+  copyright: "© Copyright 2024 . [Degen Park.](https://degenpark.io/) All rights reserved."
+editor:
+  enabled: false # Default is true
+
+
+navigation:
+  - label: "Welcome"
+    path: /welcome
+  - label: "How Degen Park Works"
+    path: /how-degen-park-works
+  - label: "Token"
+    children:
+      - label: "Degen Park Token"
+        path: /token/degen-park-token
+      - label: "Earning & Redeeming"
+        path: /token/earning-and-redeeming
+      - label: "Tokenomics"
+        path: /token/tokenomics
+  - label: "Rewards & Incentives"
+    children:
+      - label: "Player Rewards System"
+        path: /rewards-and-incentives/player-rewards-system
+      - label: "Daily & Seasonal Challenges"
+        path: /rewards-and-incentives/daily-and-seasonal-challenges
+      - label: "Referral Program"
+        path: /rewards-and-incentives/referral-program
+  - label: "Game Portfolio"
+    children:
+      - label: "Meme to Sol Wheel"
+        path: /game-portfolio/meme-to-sol-wheel
+      - label: "Meme Community Battle Wheel"
+        path: /game-portfolio/meme-community-battle-wheel
+      - label: "Game Fairness and Audit"
+        path: /game-portfolio/game-fairness-and-audit
+  - label: "Security and Privacy"
+    path: /security-and-privacy
+  - label: "Getting Started"
+    path: /getting-started
+  - label: "Community"
+    path: /community
+  - label: "Legal & Compliance"
+    children:
+      - label: "Terms of Service"
+        path: /legal-and-compliance/terms-of-service
+      - label: "Privacy Policy"
+        path: /legal-and-compliance/privacy-policy
+      - label: "Regulatory Compliance"
+        path: /legal-and-compliance/regulatory-compliance
+pro: true
+links:
+  - text: "Play"
+    link: "https://degenpark.io"
+    icon: ":house:"
+    target: blank
+  - text: "Twitter"
+    link: "https://twitter.com/degenpark"
+    icon: ":bird:" # Optional icon (e.g., emoji or Octicon)
+    target: blank  # Opens in a new tab
+  - text: "Telegram"
+    link: "https://t.me/degenpark"
+    icon: ":message:"
+    target: blank
+  - text: "Discord"
+    link: "https://discord.gg/degenpark"
+    icon: ":smile:"
+    target: blank

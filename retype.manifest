@@ -1,0 +1,105 @@
+{
+  "version": "3.6.0",
+  "created": "2024-11-29T07:27:55Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "faqs\\index.html"
+    },
+    {
+      "path": "features\\index.html"
+    },
+    {
+      "path": "games\\meme-community-battle\\index.html"
+    },
+    {
+      "path": "games\\meme-to-sol\\index.html"
+    },
+    {
+      "path": "guides\\get-started\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "legal-compliance\\terms-of-service\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "rewards-incentives\\daily-seasonal-challenges\\index.html"
+    },
+    {
+      "path": "rewards-incentives\\player-rewards-system\\index.html"
+    },
+    {
+      "path": "rewards-incentives\\referral-program\\index.html"
+    },
+    {
+      "path": "roadmap\\index.html"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "security-privacy\\audits\\index.html"
+    },
+    {
+      "path": "security-privacy\\privacy-policy\\index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\degenparklogo.png"
+    },
+    {
+      "path": "static\\dptwitter.png"
+    },
+    {
+      "path": "token\\earning-redeeming\\index.html"
+    },
+    {
+      "path": "token\\tokenomics\\index.html"
+    }
+  ]
+}
