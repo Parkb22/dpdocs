@@ -1,7 +1,7 @@
 ---
 order: 1
 ---
-# Tokenomics for $DPARK
+# 🪙 Tokenomics for $DPARK
 
 > **Contract Address:** `0x1111111111111111111111111111111111111111`  
 > **Token Symbol:** `$DPARK`  

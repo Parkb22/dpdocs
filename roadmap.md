@@ -2,24 +2,36 @@
 order: -29
 icon: iterations
 ---
+
 ![](static/dptwitter.png)
-+++ Q4 2024
-- [x] test
-- [x] Iasdf
-- [ ] Iasdf
-+++ Q1 2025
-- [x] asdfasd
-- [x] Idfdfdd
-- [ ] dsfsdafas
-+++ Q2 2025
-- [x] Item 1
-- [x] Item 2
-- [ ] Item 3
-+++ Q3 2025
-- [x] Item 1
-- [x] Item 2
-- [ ] Item 3
-+++ Q4 2025
-- [x] Item 1
-- [x] Item 2
-- [ ] Item 3
+
+# 📅 Roadmap
+
+Degen Park's exciting journey is laid out below. Check out what's completed and what's coming next!
+
++++ **December 2024**
+- ✅ **Pre-Launch**
+- ✅ **Waitlist Open**
+- ⬜ **Task & Quest Campaigns**
++++
+
++++ **January 2025**
+- ⬜ **Game 1 - Degen Wheel**
+- ⬜ **Referral System**
+- ⬜ **Quest & Point System**
++++
+
++++ **February 2025**
+- ⬜ **Game 2 - Degen Dozer**
+- ⬜ **Liquidity Pool (Player Owned)**
+- ⬜ **Single Player Games**
++++
+
++++ **March 2025**
+- ⬜ **Third Party Games**
+- ⬜ **TGE & Airdrop**
++++
+
++++ **Q2 2025**
+- ⬜ **To Be Announced (TBA)**
++++

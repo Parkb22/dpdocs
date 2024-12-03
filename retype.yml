@@ -20,7 +20,7 @@ theme: auto # Use 'auto' to adapt to the user's system theme (light/dark)
 footer:
   copyright: "© Copyright 2024 . [Degen Park.](https://degenpark.io/) All rights reserved."
 editor:
-  enabled: true # Default is true
+  enabled: false # Default is true
 
 
 navigation:
@@ -73,7 +73,7 @@ links:
     icon: ":house:"
     target: blank
   - text: "Twitter"
-    link: "https://twitter.com/degenpark"
+    link: "https://discord.gg/3hPaF4RhHu"
     icon: ":bird:" # Optional icon (e.g., emoji or Octicon)
     target: blank  # Opens in a new tab
   - text: "Telegram"
