@@ -7,15 +7,15 @@ order: -1
 
 # 🌀 Degen Wheel
 
-**Degen Wheel** is Degen Park’s decentralized spin game, built for the fearless. Using **ORAO's VRF** for provable fairness, players can swap their favorite **meme coins** or use $SOL directly for a chance to win big.
+**Degen Spin** is Degen Park’s decentralized spin game, built for the fearless. Using **ORAO's VRF** for provable fairness, players can swap their favorite **meme coins** or use $SOL directly for a chance to win big.
 
 ---
 
 ### ⚙️ How Does It Work?
 
-![Degen Wheel Animation](/wheel.gif)
+![Degen Spin Animation](/wheel.gif)
 
-In **Degen Wheel**, players can choose to participate in each round using $SOL or by auto-swapping supported memecoins into $SOL. Players deposit their chosen currency into a shared pot during the round timer. A round begins when two or more players have placed their bets. When the timer runs out:
+In **Degen Spin**, players can choose to participate in each round using $SOL or by auto-swapping supported memecoins into $SOL. Players deposit their chosen currency into a shared pot during the round timer. A round begins when two or more players have placed their bets. When the timer runs out:
 
 1. The wheel spins.
 2. Your win chance is based on your share of the total pot.
@@ -53,7 +53,7 @@ The wheel visually represents the chances, with Alice’s share being the larges
 
 ### 🌐 Network
 
-Degen Wheel operates exclusively on the **Solana network**, leveraging its:
+Degen Spin operates exclusively on the **Solana network**, leveraging its:
 - **Low fees** for high-volume transactions.
 - **Lightning-fast confirmation times** for seamless gameplay.
 
@@ -82,7 +82,7 @@ Degen Wheel operates exclusively on the **Solana network**, leveraging its:
 
 ### 💱 Supported Meme Coins
 
-Degen Wheel currently supports the following coins:
+Degen Spin currently supports the following coins:
 - 🐕 **Bonk**
 - 🪙 **Placeholder 1**
 - 🪙 **Placeholder 2**
