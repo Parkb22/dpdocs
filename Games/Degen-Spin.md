@@ -5,7 +5,7 @@ order: -1
 
 ---
 
-# 🌀 Degen Wheel
+# 🌀 Degen Spin
 
 **Degen Spin** is Degen Park’s decentralized spin game, built for the fearless. Using **ORAO's VRF** for provable fairness, players can swap their favorite **meme coins** or use $SOL directly for a chance to win big.
 
