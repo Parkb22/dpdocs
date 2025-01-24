@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2024-12-03T09:00:52Z",
+  "created": "2025-01-24T05:35:35Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,10 +9,28 @@
       "path": "404.html"
     },
     {
+      "path": "betflow.gif"
+    },
+    {
+      "path": "connect.gif"
+    },
+    {
+      "path": "degenpark.gif"
+    },
+    {
+      "path": "dptwitter.png"
+    },
+    {
       "path": "faqs\\index.html"
     },
     {
       "path": "features\\index.html"
+    },
+    {
+      "path": "games\\degen-race\\index.html"
+    },
+    {
+      "path": "games\\degen-wheel\\index.html"
     },
     {
       "path": "games\\game-fairness\\index.html"
@@ -22,14 +40,16 @@
       "old": true
     },
     {
-      "path": "games\\meme-dozer\\index.html"
+      "path": "games\\meme-dozer\\index.html",
+      "old": true
     },
     {
       "path": "games\\meme-to-sol\\index.html",
       "old": true
     },
     {
-      "path": "games\\meme-wheel\\index.html"
+      "path": "games\\meme-wheel\\index.html",
+      "old": true
     },
     {
       "path": "guides\\get-started\\index.html"
@@ -39,6 +59,9 @@
     },
     {
       "path": "legal-compliance\\terms-of-service\\index.html"
+    },
+    {
+      "path": "quest.gif"
     },
     {
       "path": "resources\\css\\retype.css"
@@ -104,16 +127,30 @@
       "path": "sitemap.xml.gz"
     },
     {
+      "path": "static\\custom.css",
+      "old": true
+    },
+    {
       "path": "static\\degenparklogo.png"
     },
     {
-      "path": "static\\dptwitter.png"
+      "path": "static\\dptwitter.png",
+      "old": true
+    },
+    {
+      "path": "static\\getstarted.png"
     },
     {
       "path": "token\\earning-redeeming\\index.html"
     },
     {
       "path": "token\\tokenomics\\index.html"
+    },
+    {
+      "path": "tokenomics.gif"
+    },
+    {
+      "path": "wheel.gif"
     }
   ]
 }

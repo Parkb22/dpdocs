@@ -1,6 +1,12 @@
 ---
 order: 1
+
+
 ---
+![](/dptwitter.png)
+
+---
+
 # 🪙 Tokenomics for $DPARK
 
 > **Contract Address:** `0x1111111111111111111111111111111111111111`  
@@ -8,6 +14,8 @@ order: 1
 > **Total Supply:** **100 million tokens**
 
 ---
+
+![$DPARK Tokenomics](/tokenomics.gif)
 
 ## 🎯 Utility
 

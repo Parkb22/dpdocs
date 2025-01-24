@@ -1,10 +1,12 @@
 ---
 order: 1
 ---
+![](/degenpark.gif)
 
-![](static/dptwitter.png)
 
 # 🎮 Welcome to DegenPark
+
+
 
 Welcome to a new frontier of on-chain gaming. **DegenPark** exists for one reason only: **to get degens rewarded.**
 
@@ -85,4 +87,4 @@ DegenPark is built on the following core principles:
 ## 📚 Ready to Dive In?
 
 Get started with **DegenPark** and experience the future of on-chain gaming.  
-[![Get Started Icon](../static/retype-icon.svg)](/guides/get-started.md)
+[![](../static/getstarted.png)](/guides/get-started.md)

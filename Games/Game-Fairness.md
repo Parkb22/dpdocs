@@ -1,5 +1,9 @@
 ---
 order: -5
+
+---
+![](/dptwitter.png)
+
 ---
 
 # ⚖️ Game Fairness

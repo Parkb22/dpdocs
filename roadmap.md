@@ -2,32 +2,34 @@
 order: -29
 icon: iterations
 ---
+![](/dptwitter.png)
 
-![](static/dptwitter.png)
+---
 
 # 📅 Roadmap
 
 Degen Park's exciting journey is laid out below. Check out what's completed and what's coming next!
 
-+++ **December 2024**
+
++++ **January 2025**
 - ✅ **Pre-Launch**
 - ✅ **Waitlist Open**
 - ⬜ **Task & Quest Campaigns**
 +++
 
-+++ **January 2025**
++++ **February 2025**
 - ⬜ **Game 1 - Degen Wheel**
 - ⬜ **Referral System**
 - ⬜ **Quest & Point System**
 +++
 
-+++ **February 2025**
-- ⬜ **Game 2 - Degen Dozer**
++++ **March 2025**
+- ⬜ **Game 2 - Degen Race**
 - ⬜ **Liquidity Pool (Player Owned)**
 - ⬜ **Single Player Games**
 +++
 
-+++ **March 2025**
++++ **April 2025**
 - ⬜ **Third Party Games**
 - ⬜ **TGE & Airdrop**
 +++

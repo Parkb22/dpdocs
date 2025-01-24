@@ -18,7 +18,7 @@ branding:
 
 theme: auto # Use 'auto' to adapt to the user's system theme (light/dark)
 footer:
-  copyright: "© Copyright 2024 . [Degen Park.](https://degenpark.io/) All rights reserved."
+  copyright: "© Copyright 2025 . [Degen Park.](https://degenpark.io/) All rights reserved."
 editor:
   enabled: false # Default is true
 
@@ -78,7 +78,7 @@ links:
     target: blank  # Opens in a new tab
   - text: "Telegram"
     link: "https://t.me/degenpark"
-    icon: ":message:"
+    icon: ":lock:"
     target: blank
   - text: "Discord"
     link: "https://discord.gg/degenpark"

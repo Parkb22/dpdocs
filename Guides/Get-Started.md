@@ -1,4 +1,11 @@
-# 🚀 Get Started
+---
+order:2 
+---
+![](/dptwitter.png)
+
+---
+
+# ⚡ Quick Start Guide
 
 Welcome to **Degen Park**, your ultimate destination for on-chain gaming and rewards. Follow this simple guide to dive in and start earning **$DPARK tokens** today!
 
@@ -6,24 +13,28 @@ Welcome to **Degen Park**, your ultimate destination for on-chain gaming and rew
 
 ### 1️⃣ Connect Your Wallet
 
+![Connecting your Wallet](/Connect.gif)
+
 To access the Degen Park ecosystem:
 1. Install a **Solana-compatible wallet** like **Phantom** or **Solflare**.
 2. Visit **DegenPark.io** and click on **Connect Wallet**.
-3. Authorize the connection and you’re ready to go!
+3. Authorize the connection and select a username.
 
 ---
 
 ### 2️⃣ Choose Your Game
+![Start Playing](/betflow.gif)
 
 Start playing by selecting one of our exciting games:
-- **Meme Wheel**: Spin and win using your favorite meme coins.
-- **Meme-Dozer** *(Coming Soon)*: Drop your coins, push your luck, and rake in rewards.
+- **Degen Wheel**: Spin and win using your favorite meme coins.
+- **Degen Racer** *(Coming Soon)*: Race against other degens, to win the big prize.
 
 Each game is powered by **blockchain transparency** and guarantees fair outcomes.
 
 ---
 
 ### 3️⃣ Earn Points and Rewards
+![Earn Points](/quest.gif)
 
 Engage with the platform to start earning:
 - 🎮 **Play Games**: Every move counts towards your points.

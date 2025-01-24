@@ -1,3 +1,9 @@
+![](/dptwitter.png)
+
+
+---
+
+
 # 🥷 Privacy Policy
 
 **Effective Date:** January 10, 2025  

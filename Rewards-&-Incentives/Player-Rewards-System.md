@@ -1,3 +1,8 @@
+![](/dptwitter.png)
+
+---
+
+
 # 🏆 Player Rewards System
 
 At **Degen Park**, we’ve crafted a rewards ecosystem to engage and retain players, incentivizing active participation and fostering a thriving community.

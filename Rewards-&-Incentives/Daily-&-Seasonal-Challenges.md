@@ -1,10 +1,15 @@
-# 📅 Daily & Seasonal Challenges
-
-As part of the **Player Rewards System**, **Daily & Seasonal Challenges** keep the excitement alive with fresh activities, exclusive rewards, and opportunities to climb the leaderboard.
+![](/dptwitter.png)
 
 ---
 
-### 🔥 Why Participate in Challenges?
+
+# 📅 Quests
+
+As part of the **Player Rewards System**, **Questss** keep the excitement alive with fresh activities, exclusive rewards, and opportunities to climb the leaderboard.
+
+---
+
+### 🔥 Why Participate in Quests?
 
 - **Dynamic Rewards**: Win **$DPARK tokens**, system points, and more.
 - **Variety of Tasks**: Engage in a mix of gameplay, social, and community activities.
@@ -13,7 +18,7 @@ As part of the **Player Rewards System**, **Daily & Seasonal Challenges** keep t
 
 ---
 
-### 🕒 Daily Challenges
+### 🕒 Daily Quests
 
 +++ 🌟 Social Media Engagement
 - Share Degen Park updates on Twitter or Telegram.
@@ -26,25 +31,26 @@ As part of the **Player Rewards System**, **Daily & Seasonal Challenges** keep t
 +++ 📈 Referral Activity
 - Invite new users and earn points for their participation.
 - Get rewarded for spreading the word about Degen Park!
++++ 🏆 Community Quests
+- Engage with Partner Communities
+- Participate in Surveys and Polls
 +++
 
 ---
 
-### 🗓️ Seasonal Challenges
+### 🗓️ Weekly & Seasonal Quests
 
-||| 🎉 **Themed Activities**
-Each season brings unique, themed tasks that reflect community goals and events:
-- **Winter Season**: Snow-themed games and community engagement.
-- **Summer Season**: High-energy challenges with exclusive summer rewards.
+||| 🎯 **Weekly Quests**  
+Take on bigger challenges to earn bigger rewards every week:  
+- Complete gameplay milestones or participate in community events.  
+- Earn substantial leaderboard points for consistent engagement and quest completion.
 
-||| 🏆 **Competitive Quests**
-- Participate in large-scale quests to earn significant **$DPARK tokens**.
-- Achieve milestones to unlock **leaderboard bonuses**.
+||| 🏆 **Seasonal Quests**  
+One-time challenges available every season:  
+- Achieve unique, themed milestones tied to seasonal goals.  
+- Unlock exclusive rewards like rare collectibles, bonus points, and leaderboard bonuses.  
+|||  
 
-||| 🌟 **Special Events**
-- Limited-time tasks during holidays or platform anniversaries.
-- Win rare collectibles or exclusive rewards.
-|||
 
 ---
 

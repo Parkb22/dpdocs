@@ -1,3 +1,8 @@
+![](/dptwitter.png)
+
+---
+
+
 # 🛡️ Audits
 
 ## 🛡️ Security and Audits

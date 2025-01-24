@@ -1,3 +1,4 @@
+![](/dptwitter.png)
 # 🧩 Features of Degen Park
 
 Degen Park combines cutting-edge blockchain technology with high-performance gaming features. Explore how we ensure fairness, efficiency, and optimized gameplay for every player.

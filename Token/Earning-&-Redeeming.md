@@ -1,34 +1,34 @@
-# 💸 Earning and Redeeming
+![](/dptwitter.png)
+
+---
+
+# 💸 Earning and Using
 
 Dive into the **Degen Park ecosystem** and explore the multiple ways to earn and redeem **$DPARK tokens**. Whether it's before or after the Token Generation Event (TGE), we've designed opportunities to reward active participants.
 
 
 ---
 
-### 🌟 Pre-TGE vs. Post-TGE Earnings
+### 🌟 Earn Degen Points - Claim Seasonal Airdrops
 
 +++ Pre-TGE
 - 🎲 **Play games**: Engage with the ecosystem and earn points for every interaction.
 - ✅ **Complete tasks**: Participate in ecosystem-building activities and claim rewards.
 - 🧑‍🤝‍🧑 **Invite friends**: Share the fun and earn points for successful referrals.
 
-At the TGE, **$DPARK tokens** will be **airdropped** based on the points earned by users, relative to other participants.
+At TGE, **$DPARK tokens** will be **airdropped** based on the points earned by users, relative to other participants.
 
-
-+++ Post-TGE
-- Earn **$DPARK tokens directly** by participating in seasonal events and playing games.
-- Compete in **Season 1** (launching immediately after TGE) for a share of the **allocated tokens**.
 
 You can also **earn bonus tokens** by completing:
 - **Quests**: Engage in specific challenges designed to test your skills.
-- **Milestones**: Achieve high-impact objectives for **extra rewards**.
+- **Milestones**: Achieve high-impact objectives for **extra points**.
 +++
 
 ---
 
-### 💰 Redeeming $DPARK Tokens
+### 💰 Using $DPARK Tokens
 
-Explore the exciting ways to redeem your **$DPARK tokens** and make the most of your rewards.
+Explore the exciting ways to use your **$DPARK tokens** and make the most of your rewards.
 
 ---
 
@@ -58,30 +58,5 @@ Use your **$DPARK tokens** to:
 Be part of the elite circle and enjoy premium gaming perks.
 |||
 
----
-
-### ⚖️ Earnings Summary
-
-| **Earning Method**            | **Before TGE**        | **After TGE**           |
-|--------------------------------|-----------------------|--------------------------|
-| Playing Games                 | Earn points           | Earn $DPARK tokens       |
-| Completing Tasks              | Earn points           | Earn $DPARK tokens       |
-| Referrals                     | Earn points           | Earn $DPARK tokens       |
-| Quests and Milestones         | Not available         | Earn bonus $DPARK tokens |
-| Providing Liquidity           | Not available         | Earn profit shares       |
 
 ---
-
-### 🛠️ How It All Works (Visualized)
-
-```mermaid
-flowchart LR
-    User[User] -->|Plays Games| Points[Points Earned Pre-TGE]
-    Points -->|Converted at TGE| DPARKTokens[$DPARK Tokens]
-    DPARKTokens -->|Used For| Liquidity[Provide Liquidity]
-    DPARKTokens -->|Used For| Rewards[Seasonal Rewards]
-    DPARKTokens -->|Used For| Tournaments[Exclusive Tournaments]
-
-    DPARKTokens -->|Post-TGE| DirectTokens[$DPARK Tokens Directly Earned]
-    DirectTokens -->|Used For| Rewards
-    DirectTokens -->|Used For| Tournaments

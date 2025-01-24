@@ -1,3 +1,7 @@
+![](/dptwitter.png)
+
+---
+
 # 📙 Terms of Service
 
 **Last updated:** January 10, 2025  
