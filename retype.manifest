@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2025-01-24T05:35:35Z",
+  "created": "2025-01-24T06:01:41Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -27,10 +27,17 @@
       "path": "features\\index.html"
     },
     {
+      "path": "games\\degen-pusher\\index.html"
+    },
+    {
       "path": "games\\degen-race\\index.html"
     },
     {
-      "path": "games\\degen-wheel\\index.html"
+      "path": "games\\degen-spin\\index.html"
+    },
+    {
+      "path": "games\\degen-wheel\\index.html",
+      "old": true
     },
     {
       "path": "games\\game-fairness\\index.html"
