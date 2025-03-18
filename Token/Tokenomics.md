@@ -32,12 +32,12 @@ $DPARK tokens serve as the backbone of the **Degen Park** ecosystem with the fol
 
 | **Category**              | **Percentage** | **Release Schedule**                          |
 |---------------------------|----------------|-----------------------------------------------|
-| 🏅 **Community Incentives** | **35%**       | 0% TGE, 3-month cliff, 36-month vesting       |
-| 🌟 **Marketing & Partnerships** | **20%** | 0% TGE, 3-month cliff, 36-month vesting       |
-| 👩‍💻 **Team**                | **15%**       | 0% TGE, 3-month cliff, 36-month vesting       |
-| 💰 **Early Investors**      | **15%**       | 0% TGE, 3-month cliff, 36-month vesting       |
-| 💧 **Liquidity**            | **10%**       | 0% TGE, 3-month cliff, 36-month vesting       |
-| 🚀 **Strategic Reserve**    | **5%**        | 0% TGE, 3-month cliff, 36-month vesting       |
+| 🏅 **Community Incentives** | **35%**       | 
+| 🌟 **Marketing & Partnerships** | **20%** | 
+| 👩‍💻 **Team**                | **15%**       |
+| 💰 **Early Investors**      | **15%**       |
+| 💧 **Liquidity**            | **10%**       |
+| 🚀 **Strategic Reserve**    | **5%**        |
 
 ---
 
