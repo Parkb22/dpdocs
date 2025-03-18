@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2025-03-18T04:10:04Z",
+  "created": "2025-03-18T05:02:38Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -27,7 +27,8 @@
       "path": "features\\index.html"
     },
     {
-      "path": "games\\degen-pusher\\index.html"
+      "path": "games\\degen-pusher\\index.html",
+      "old": true
     },
     {
       "path": "games\\degen-race\\index.html"
