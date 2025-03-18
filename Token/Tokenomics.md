@@ -30,7 +30,7 @@ $DPARK tokens serve as the backbone of the **Degen Park** ecosystem with the fol
 
 ## 📊 Distribution Summary
 
-| **Category**              | **Percentage** | **Release Schedule**                          |
+| **Category**              | **Percentage** |
 |---------------------------|----------------|-----------------------------------------------|
 | 🏅 **Community Incentives** | **35%**       | 
 | 🌟 **Marketing & Partnerships** | **20%** | 
