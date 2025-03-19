@@ -7,6 +7,6 @@ order: -2
 
 # ⚡ Degen Race
 
-Coming Soon
+test
 
 ---
