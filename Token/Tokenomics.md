@@ -1,90 +1,101 @@
 ---
 order: 1
-
-
----
-![](/dptwitter.png)
-
 ---
 
-# 🪙 Tokenomics for $DPARK
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/dptwitter.png" alt="DegenPark Token" style="max-width: 100%; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+</div>
 
-> **Contract Address:** `0x1111111111111111111111111111111111111111`  
-> **Token Symbol:** `$DPARK`  
-> **Total Supply:** **100 million tokens**
+<div style="background: linear-gradient(135deg, rgba(255,159,67,0.15) 0%, rgba(0,184,148,0.15) 100%); padding: 2rem; border-radius: 15px; border-left: 4px solid #ff9f43; margin: 2rem 0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
----
+# 🪙 $DPARK
 
-![$DPARK Tokenomics](/tokenomics.gif)
+<div style="background: rgba(255,255,255,0.1); padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+    <div>
+      <strong style="color: #666;">Contract Address:</strong><br/>
+      <code style="background: rgba(0,0,0,0.1); padding: 0.5rem; border-radius: 5px; display: block;">TBA</code>
+    </div>
+    <div>
+      <strong style="color: #666;">Token Symbol:</strong><br/>
+      <code style="background: rgba(0,0,0,0.1); padding: 0.5rem; border-radius: 5px; display: block;">$DPARK</code>
+    </div>
+    <div>
+      <strong style="color: #666;">Total Supply:</strong><br/>
+      <code style="background: rgba(0,0,0,0.1); padding: 0.5rem; border-radius: 5px; display: block;">TBA</code>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div style="padding: 2rem; border-radius: 15px; background: rgba(255,255,255,0.05); margin: 2rem 0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+
+## 📈 Token Overview
+
+The complete tokenomics structure of $DPARK is currently under development, with one fundamental principle at its core:
+
+<div style="background: linear-gradient(135deg, rgba(255,159,67,0.2) 0%, rgba(0,184,148,0.2) 100%); padding: 2rem; border-radius: 10px; margin: 1.5rem 0; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+
+### 🌟 Community-Centric Distribution
+
+The majority allocation of $DPARK tokens will be dedicated to community initiatives, ensuring a fair and sustainable ecosystem for all participants.
+
+</div>
 
 ## 🎯 Utility
 
-$DPARK tokens serve as the backbone of the **Degen Park** ecosystem with the following utilities:
+$DPARK tokens serve as the foundation of the **Degen Park** ecosystem:
 
-- **Wager**: Used as the primary token for gaming and betting.
-- **Staking & Rewards**: Stake tokens to earn rewards and unlock additional benefits.
-- **Exclusive Access**: Access to premium features and events within the Degen Park ecosystem.
-- **Airdrops & Rewards**: Receive tokens as part of ongoing incentive programs.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
 
----
+<div style="background: rgba(255,159,67,0.15); padding: 1.5rem; border-radius: 10px; border-left: 4px solid #ff9f43; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <h3 style="color: #ff9f43; margin-top: 0; font-size: 1.2rem;">🎲 Participation</h3>
+  <p style="margin-bottom: 0;">Primary token for participating in ecosystem activities</p>
+</div>
 
-## 📊 Distribution Summary
+<div style="background: rgba(0,184,148,0.15); padding: 1.5rem; border-radius: 10px; border-left: 4px solid #00b894; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <h3 style="color: #00b894; margin-top: 0; font-size: 1.2rem;">🏆 Staking</h3>
+  <p style="margin-bottom: 0;">Stake tokens to access enhanced features and earn rewards</p>
+</div>
 
-| **Category**              | **Percentage** |
-|---------------------------|----------------|-----------------------------------------------|
-| 🏅 **Community Incentives** | **35%**       | 
-| 🌟 **Marketing & Partnerships** | **20%** | 
-| 👩‍💻 **Team**                | **15%**       |
-| 💰 **Early Investors**      | **15%**       |
-| 💧 **Liquidity**            | **10%**       |
-| 🚀 **Strategic Reserve**    | **5%**        |
+<div style="background: rgba(255,159,67,0.15); padding: 1.5rem; border-radius: 10px; border-left: 4px solid #ff9f43; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <h3 style="color: #ff9f43; margin-top: 0; font-size: 1.2rem;">🎭 Premium Access</h3>
+  <p style="margin-bottom: 0;">Access to advanced features and exclusive events</p>
+</div>
 
----
+<div style="background: rgba(0,184,148,0.15); padding: 1.5rem; border-radius: 10px; border-left: 4px solid #00b894; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <h3 style="color: #00b894; margin-top: 0; font-size: 1.2rem;">🎁 Incentives</h3>
+  <p style="margin-bottom: 0;">Ongoing rewards for active ecosystem participants</p>
+</div>
 
-📜 Distribution Breakdown
------------------------------
+</div>
 
-### 🏅 Community Incentives: 35%
+<div style="background: rgba(0,0,0,0.1); padding: 2rem; border-radius: 10px; margin: 2rem 0; border-left: 4px solid #ff9f43; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
-\[███████████████████-----\] 35%
+### 📋 Additional Information
 
-* Dedicated to fostering engagement and rewarding participation.
-    
-### 🌟 Marketing & Partnerships: 20%
+Detailed tokenomics will be published prior to launch. Key points:
 
-\[██████████--------------------\] 20%
+<ul style="margin: 1rem 0; padding-left: 1.5rem;">
+  <li style="margin-bottom: 0.5rem;">Community allocation represents the largest token distribution</li>
+  <li style="margin-bottom: 0.5rem;">Implementation of fair distribution mechanisms</li>
+  <li style="margin-bottom: 0.5rem;">Strategic vesting schedules to ensure long-term sustainability</li>
+</ul>
 
-* Boosts collaborations and global outreach.
+Further details will be announced as development progresses.
 
-### 👩‍💻 Team: 15%
+</div>
 
-\[███████------------------------\] 15%
+</div>
 
-* Reserved for core contributors and developers.
-
-
-### 💰 Early Investors: 15%
-
-\[███████------------------------\] 15%
-
-* Allocated to seed and strategic round investors.
-
-
-### 💧 Liquidity: 10%
-
-\[█████--------------------------\] 10%
-
-* Ensures smooth trading and availability on exchanges.
-
-### 🚀 Strategic Reserve: 5%
-
-\[██-----------------------------\] 5%
-
-* Locked for future developments and unplanned needs.
-.
-    
+<div style="background: rgba(255,255,255,0.05); padding: 1.5rem; border-radius: 10px; margin: 2rem 0; border-left: 4px solid #00b894;">
 
 ### Notes:
 
-- [x] Token allocations are **subject to change** before the Token Generation Event (TGE).
-- [x] All vesting schedules are placeholders and may vary based on final project needs.
+<ul style="margin: 0; padding-left: 1.5rem;">
+  <li style="margin-bottom: 0.5rem;">Token allocations are <strong>subject to change</strong> before the Token Generation Event (TGE).</li>
+  <li style="margin-bottom: 0.5rem;">All vesting schedules are placeholders and may vary based on final project needs.</li>
+</ul>
+
+</div>

@@ -7,6 +7,12 @@
 
 **Degen Race** is an exciting *physics-based racing game* on Solana where players compete for glory and rewards. Purchase racing balls and watch them **race through dynamic tracks** filled with twists and turns — *every race is unique and unpredictable*!
 
+
+*Degen Race is currently supported on the following networks:*
+- 🪙 **Solana**
+- 🪙 **Eclipse**
+- 🪙 **TBA**
+
 === 🎮 Quick Start Guide
 ### _Get Racing in 4 Simple Steps_
 
@@ -44,9 +50,9 @@
 
 | Position | Prize Share | Payout |
 |----------|-------------|---------|
-| 🥇 **First** | **60%** | *Majority Share* |
-| 🥈 **Second** | **30%** | *Runner-up Bonus* |
-| 🥉 **Third** | **10%** | *Bronze Reward* |
+| 🥇 **First** | **Initial Bet + 70% Prize Pool** | *Majority Share* |
+| 🥈 **Second** | **Initial Bet + 30% Prize Pool** | *Runner-up Bonus* |
+| 🥉 **Third** | **Initial Bet (1X)** | *Bronze Reward* |
 ===
 
 === 🔑 What Makes Us Special

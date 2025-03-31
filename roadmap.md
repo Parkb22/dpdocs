@@ -11,29 +11,31 @@ icon: iterations
 Degen Park's exciting journey is laid out below. Check out what's completed and what's coming next!
 
 
-+++ **March 2025**
++++ **April 2025**
 - ✅ **Pre-Launch**
 - ✅ **Waitlist Open**
+- ✅ **SVM Integration**
 - ⬜ **Task & Quest Campaigns**
 +++
 
-+++ **April 2025**
++++ **May 2025**
 - ⬜ **Game 1 - Degen Wheel**
+- ⬜ **Game 2 - Degen Race**
 - ⬜ **Referral System**
 - ⬜ **Quest & Point System**
 +++
 
-+++ **May 2025**
-- ⬜ **Game 2 - Degen Race**
++++ **June 2025**
+- ⬜ **Game 3 - Rug the Pepe**
 - ⬜ **Liquidity Pool (Player Owned)**
 - ⬜ **Single Player Games**
 +++
 
-+++ **June 2025**
++++ **July 2025**
 - ⬜ **Third Party Games**
 - ⬜ **TGE & Airdrop**
 +++
 
-+++ **Q3 2025**
++++ **TBA 2025**
 - ⬜ **To Be Announced (TBA)**
 +++

@@ -9,6 +9,11 @@ order: -1
 
 **Degen Spin** is Degen Park’s decentralized spin game, built for the fearless. Using **ORAO's VRF** for provable fairness, players can swap their favorite **meme coins** or use $SOL directly for a chance to win big.
 
+
+*Degen Spin is currently supported on the following networks:*
+- 🪙 **Solana**
+- 🪙 **TBA**
+
 ---
 
 ### ⚙️ How Does It Work?
@@ -38,14 +43,14 @@ In **Degen Spin**, players can choose to participate in each round using $SOL or
 
 ### 📋 Example Game Round
 
-Imagine a pot of 100 SOL, with four players contributing memecoins swapped into SOL or directly using $SOL:
+Imagine a pot of 10 SOL, with four players contributing memecoins swapped into SOL or directly using $SOL:
 
 | **Player** | **Deposit**  | **Chance**       |
 |------------|--------------|------------------|
-| Alice      | 40 SOL       | 40%              |
-| Bob        | 30 SOL       | 30%              |
-| Carol      | 20 SOL       | 20%              |
-| Dan        | 10 SOL       | 10%              |
+| Alice      | 4 SOL       | 40%              |
+| Bob        | 3 SOL       | 30%              |
+| Carol      | 2 SOL       | 20%              |
+| Dan        | 1 SOL       | 10%              |
 
 The wheel visually represents the chances, with Alice’s share being the largest and Dan’s the smallest. When the wheel stops, the winner takes home the **entire pot** (less a small protocol fee).
 

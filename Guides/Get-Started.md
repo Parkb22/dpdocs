@@ -9,6 +9,16 @@ order:2
 
 Welcome to **Degen Park**, your ultimate destination for on-chain gaming and rewards. Follow this simple guide to dive in and start earning **$DPARK tokens** today!
 
+> [!IMPORTANT]  
+> Degen Park testnet is runinng on Solana Devnet.\
+ \
+>To enable or disable test networks in Phantom, follow these steps:\
+ \
+>Open Settings by clicking the icon in the top left corner.\
+>Navigate to Developer Settings.\
+>Toggle on Testnet.\
+>Choose Solana , then select Devnet\
+
 ---
 
 ### 1️⃣ Connect Your Wallet
