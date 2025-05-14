@@ -72,8 +72,8 @@ links:
     link: "https://degenpark.io"
     icon: ":house:"
     target: blank
-  - text: "Twitter"
-    link: "https://discord.gg/3hPaF4RhHu"
+  - text: "X"
+    link: "https://x.com/playdegenpark"
     icon: ":bird:" # Optional icon (e.g., emoji or Octicon)
     target: blank  # Opens in a new tab
   - text: "Telegram"
@@ -81,7 +81,7 @@ links:
     icon: ":lock:"
     target: blank
   - text: "Discord"
-    link: "https://discord.gg/degenpark"
+    link: "https://discord.com/invite/a5NEXBmWNu"
     icon: ":smile:"
     target: blank
 

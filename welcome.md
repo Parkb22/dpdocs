@@ -1,9 +1,9 @@
 ---
 order: 1
 ---
-
-# <div style="text-align: center;">🎮 Welcome to DegenPark</div>
-
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/dptwitter.png" alt="DegenPark Logo" style="max-width: 100%; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+</div>
 <div style="padding: 20px; border-radius: 10px; margin-bottom: 2rem; border-left: 4px solid #ff9f43; background-color: rgba(255, 159, 67, 0.1);">
 Welcome to a new frontier of on-chain gaming. <strong style="color: #ff9f43; font-weight: bold;">DegenPark</strong> exists for one reason only: <strong style="color: #00b894; font-weight: bold;">to get degens rewarded.</strong>
 
@@ -12,16 +12,16 @@ Win or lose in our suite of crypto games, you're gaining points. With every move
 
 ---
 
-## 🚀 Built on Solana
+## 🚀 Built for SVM
 
 <div style="margin-bottom: 1.5rem;">
-  Let's be real: you just <strong style="color: #ff9f43; font-weight: bold;">can't</strong> get the high-octane thrills DegenPark delivers on traditional blockchains. To build the ultimate gaming hub, we've turned to <strong style="color: #00b894; font-weight: bold;">Solana</strong>'s lightning-fast Layer 1 solution.
+  Let's be real: you just <strong style="color: #ff9f43; font-weight: bold;">can't</strong> get the high-octane thrills DegenPark delivers on traditional blockchains. To build the ultimate gaming hub, we've turned to <strong style="color: #00b894; font-weight: bold;">SVM</strong>'s for lightning-fast transactions and scalability.
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin-bottom: 2rem;">
   <div style="padding: 20px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1);">
     <h3 style="color: #ff9f43; margin-top: 0;">⚡ Lightning-Fast Performance</h3>
-    <p>Forget block times and congestion — experience seamless gameplay with Solana.</p>
+    <p>Forget block times and congestion — experience seamless gameplay only available on SVMs</p>
   </div>
 
   <div style="padding: 20px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1);">
@@ -31,20 +31,17 @@ Win or lose in our suite of crypto games, you're gaining points. With every move
 
   <div style="padding: 20px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1);">
     <h3 style="color: #ff9f43; margin-top: 0;">🛠️ Built for Gaming</h3>
-    <p>Solana powers unmatched performance, enabling high-frequency gaming at scale.</p>
+    <p>SVMs power unmatched performance, enabling high-frequency gaming at scale.</p>
   </div>
 </div>
 
-<div style="background-color: rgba(255, 159, 67, 0.1); padding: 15px; border-radius: 10px; margin-bottom: 2rem; border-left: 4px solid #ff9f43;">
-  <span style="font-weight: bold;">💡 Fun Fact:</span> Every savings from low gas fees goes back into improving DegenPark for YOU.
-</div>
 
 ---
 
 ## 💰 Get Points, Get Rewards
 
 <div style="margin-bottom: 1.5rem;">
-Let's talk <strong style="color: #ff9f43; font-weight: bold;">Degen Points</strong> — the ultimate gaming rewards system for degens like you.
+<strong style="color: #ff9f43; font-weight: bold;">Degen Points</strong> — the ultimate gaming rewards system for degens like you.
 </div>
 
 <div style="margin-bottom: 2rem; border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 10px; overflow: hidden;">
@@ -160,15 +157,7 @@ DegenPark is built on the following core principles:
 
 ---
 
-## 📚 Ready to Dive In?
 
-<div style="text-align: center; margin: 3rem 0;">
-  <p style="font-size: 1.2em; margin-bottom: 1.5rem;">Get started with <strong style="color: #ff9f43; font-weight: bold;">DegenPark</strong> and experience the future of on-chain gaming.</p>
-  
-  <a href="/guides/get-started.md" style="display: inline-block; padding: 0; border-radius: 10px; transition: transform 0.3s ease; box-shadow: 0 6px 12px rgba(0,0,0,0.2);">
-    <img src="../static/getstarted.png" alt="Get Started" style="max-width: 250px; border-radius: 10px; display: block;" />
-  </a>
-</div>
 
 <script>
 function openTab(tabName) {
