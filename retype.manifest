@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2025-05-14T06:05:49Z",
+  "created": "2025-07-18T02:26:49Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -30,6 +30,9 @@
       "path": "game-fairness\\index.html"
     },
     {
+      "path": "games\\5050\\index.html"
+    },
+    {
       "path": "games\\degen-pusher\\index.html",
       "old": true
     },
@@ -37,7 +40,8 @@
       "path": "games\\degen-race\\index.html"
     },
     {
-      "path": "games\\degen-spin\\index.html"
+      "path": "games\\degen-spin\\index.html",
+      "old": true
     },
     {
       "path": "games\\degen-wheel\\index.html",
@@ -64,7 +68,8 @@
       "old": true
     },
     {
-      "path": "games\\rug-the-pepe\\index.html"
+      "path": "games\\rug-the-pepe\\index.html",
+      "old": true
     },
     {
       "path": "guides\\get-started\\index.html"
@@ -97,7 +102,8 @@
       "path": "resources\\js\\lunr.js"
     },
     {
-      "path": "resources\\js\\mermaid.js"
+      "path": "resources\\js\\mermaid.js",
+      "old": true
     },
     {
       "path": "resources\\js\\retype.js"
