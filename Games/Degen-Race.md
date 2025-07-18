@@ -80,10 +80,10 @@
 
 ### Requirements
 !!! info
-- 💵 **Minimum Entry**: *0.01 SOL per ball*
-- 👥 **Required Players**: *3+ per race*
-- 🔌 **Supported Wallets**: *All Solana-compatible*
-- 📊 **Winner's Fee**: *3% on winnings*
+- 💵 **Minimum Entry**: *0.0002 SOL per ball* / (0.00002 ETH per ball)
+- 👥 **Required Players**: *4+ per race*
+- 🔌 **Supported Wallets**: *Phantom / Backpack* 
+
 !!!
 ===
 

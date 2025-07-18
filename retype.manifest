@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2025-07-18T02:26:49Z",
+  "created": "2025-07-18T03:59:51Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -68,8 +68,7 @@
       "old": true
     },
     {
-      "path": "games\\rug-the-pepe\\index.html",
-      "old": true
+      "path": "games\\rug-the-pepe\\index.html"
     },
     {
       "path": "guides\\get-started\\index.html"
